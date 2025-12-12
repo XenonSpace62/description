@@ -3,7 +3,7 @@ Bonjour ! Je suis Adam DECLOITRE — un passionné d'informatique, de réseaux e
 ## À propos de moi
 Je crée, j'apprends et je partage : des projets personnels, des prototypes, des scripts utiles et parfois des expérimentations. J'aime résoudre des problèmes concrets, explorer de nouvelles technologies et collaborer avec d'autres développeur·se·s.
 
-## Compétences (exemples — adapte selon ton profil)
+## Compétences
 - Langages : HTML, CSS, JavaScript
 - Outils : Git • Docker • Proxmox • TrueNAS • HomeAssistant • PiVPN
 - Domaines d'intérêt : développement web, automatisation, réseaux, Intelligence Artificelle
